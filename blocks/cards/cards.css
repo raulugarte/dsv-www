@@ -215,7 +215,7 @@
       max-width: 400px;
       /* RUG 
       background-color: #171C29; */
-      background-color: #EE0000;
+      background-color: #efefef;
       color: #fff;
     }
 
@@ -223,7 +223,7 @@
       grid-area: 1 / 2 / 2 / 3;
       /* RUG 
       background-color: #171C29; */
-      background-color: #d5d5d5;
+      background-color: #efefef;
       display: flex;
       flex-direction: row-reverse;
       padding: 0px;
@@ -233,7 +233,7 @@
       grid-area: 2 / 2 / 3 / 3;
       /* RUG 
       background-color: #CBE7F0; */
-      background-color: #d5d5d5;
+      background-color: #efefef;
       
       display: flex;
       flex-direction: row;
