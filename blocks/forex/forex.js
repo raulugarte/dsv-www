@@ -12,6 +12,6 @@ export default async function decorate(block) {
       `;
       container.append(tr);
     });
-  block.innerHTML = '<h4>Exchange Rates</h4><h5>Base Currency: ' + index.title + '</h5>';
+  block.innerHTML = '<h4>Wechselkurse</h4><h5>Basiswährung: ' + index.title + '</h5>';
   block.append(container);
 }
