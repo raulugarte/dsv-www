@@ -78,7 +78,9 @@
 
 .feature-callout-wrapper {
   z-index: 6;
-  background-color: #171C29;
+  /* RUG 
+  background-color: #171C29; */
+  background-color: #ee0000;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
